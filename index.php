@@ -34,11 +34,6 @@
             <div class="skill-row">
                 <img class="code-img" src="images/coding.png" alt="pic" />
                 <h3>Front-end</h3>
-                <p>
-                    Lorem ipsum dolor sit amet, quis in duis, iaculis id felis.
-                    Consectetuer vestibulum, nunc urna lectus, erat ligula. Hendrerit
-                    nam, lectus ante, ut lorem eros.
-                </p>
                 <table cellspacing="10">
                     <thead>
                         <tr>
@@ -65,11 +60,6 @@
             <div class="skill-row">
                 <img class="code-image" src="images/web-development.png" alt="" />
                 <h3>Back-end</h3>
-                <p>
-                    Lorem ipsum dolor sit amet, mauris sed consectetuer. Etiam et eu,
-                    bibendum interdum, lacus quis mauris. Curabitur wisi, quisque vel
-                    eu, rutrum nam.
-                </p>
                 <table cellspacing="10">
                     <thead>
                         <tr>
@@ -87,6 +77,30 @@
                         <tr>
                             <td>MySQL</td>
                             <td>★★★</td>
+                        </tr>
+                    </thead>
+                </table>
+            </div>
+            <div class="skill-row">
+                <img class="code-img" src="images/fro.png" alt="" />
+                <h3>Others</h3>
+                <table cellspacing="10">
+                    <thead>
+                        <tr>
+                            <td>Adobe Photoshop</td>
+                            <td>★★★★</td>
+                        </tr>
+                        <tr>
+                            <td>MicroSoft Word</td>
+                            <td>★★★★</td>
+                        </tr>
+                        <tr>
+                            <td>MicroSoft Excel</td>
+                            <td>★★★★</td>
+                        </tr>
+                        <tr>
+                            <td>MicroSoft Powerpoint</td>
+                            <td>★★★★</td>
                         </tr>
                     </thead>
                 </table>
